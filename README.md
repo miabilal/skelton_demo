@@ -12,7 +12,9 @@ A beautiful Flutter demo application showcasing the Smart Skeleton Loader packag
 - 🌓 Light/Dark Theme Support
 - 🔄 Smooth Loading Transitions
 
+## Screenshots
 
+[Add your screenshots here]
 
 ## Getting Started
 
